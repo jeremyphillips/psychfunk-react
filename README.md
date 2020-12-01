@@ -1,13 +1,14 @@
-# PsychFunk React
+# Psych Funk React
 React frontend built with Frontity framework, powered by Wordpress REST API.
 
 To replace http://psychfunk.com
 
 Frontity: https://github.com/frontity/frontity
 
+# Get started
 Start project: `npx frontity dev`
 
-@TODO
+# @TODO
 - [ ] Label template
 - [ ] Country template
 - [ ] Homepage template
